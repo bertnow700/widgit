@@ -1,0 +1,2 @@
+Some configuration file
+I've added it here
