@@ -2,3 +2,4 @@ Some configuration file
 I've added it here
 Add some more 
 An additional change
+more changes
